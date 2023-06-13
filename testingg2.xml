@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test Suite">
+  <test name="Test Case">
+   <classes>    
+       <class name="testNG.DependanciesManagement"></class>
+       <class name="testNG.Car"></class>
+       <class name="testNG.SkipTests"></class>   
+       <class name="testNG.SampleTest"></class>
+   </classes>
+  </test> 
+</suite>
